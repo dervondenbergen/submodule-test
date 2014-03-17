@@ -1,0 +1,3 @@
+[submodule "designmyass.js"]
+	path = designmyass.js
+	url = git://github.com/bullgit/designmyass.js.git
