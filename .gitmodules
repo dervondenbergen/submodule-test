@@ -1,3 +1,6 @@
 [submodule "designmyass.js"]
 	path = designmyass.js
 	url = https://github.com/bullgit/designmyass.js.git
+[submodule "lf"]
+	path = lf
+	url = https://github.com/bullgit/lowercase-framework.git
